@@ -1,0 +1,12 @@
+The Candidate Set of node D is
+E 
+       WRP       rv(v,r)     p
+------------------------------------
+  A   0.3470     1.8776    0.0000
+  B   0.3470     1.8776    0.0000
+  C   0.1530     1.9224    0.0000
+  E   0.0743     0.8595    1.0000
+  F   0.0787     1.0630    0.0000
+------------------------------------
+By TSP, vertex E is the best candidate 
+which means it is most likely to replace vertex D .
